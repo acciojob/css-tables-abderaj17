@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.table{
+	margin: 20px;
+	padding: 30px;
+	background-color: lightblue;
+}
+th tr td {
+	
+}
